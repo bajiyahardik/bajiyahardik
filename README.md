@@ -1,14 +1,24 @@
-## 🚀 **Hey**, I'm **Hardik**  
+# Hi there, I'm Hardik! 👋  
 
-I am a passionate **data analyst** and an aspiring **data scientist**, excited to explore the world of **data** and **insights**.  
+I am a passionate **Data Analyst** and an aspiring **Data Scientist**, excited to explore the world of **data and insights**.  
 
-- 🌱 I’m currently learning **Python, Power BI, SQL, and Data Visualization**  
-- 💬 Ask me about anything **Data Analytics**, and I’d be happy to help  
-- 📫 How to reach me: [hardikbajiya934@email.com](mailto:hardikbajiya934@email.com)  
+## 🚀 About Me  
+- 🌱 Currently learning **Python, Power BI, SQL, and Data Visualization**  
+- 💡 Exploring **backend development** and **data-driven solutions**  
+- 💬 Ask me anything about **Data Analytics**, and I'd be happy to help  
 
----
+## 📊 Technologies & Tools  
+- **Programming:** Python 🐍  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Databases:** SQL, SQLite  
+- **Visualization:** Power BI, Matplotlib  
 
-### 🤝 **Connect with me**  
+## 📫 Connect with Me  
+- 📧 Email: [hardikbajiya934@email.com](mailto:hardikbajiya934@email.com)  
+
+
+🔹 *Always excited to learn, build, and grow in the world of data!*
+
 
 <p>
   <a href="https://www.linkedin.com/in/hardik-bajiya-0b9662270" target="_blank">
